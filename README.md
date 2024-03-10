@@ -1,4 +1,4 @@
-# INM707-DEV
+# INM707: Deep Reinforcement Learning
 
 
 
