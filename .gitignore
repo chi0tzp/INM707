@@ -1,2 +1,7 @@
-*.directory
+.directory
 *~
+*.pyc
+__pycache__/
+*/__pycache__/
+lab*/*venv/
+lab*/.idea/
