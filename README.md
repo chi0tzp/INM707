@@ -66,4 +66,7 @@ options:
 
 
 
+## Session 8: Policy- and Value-based Algorithms II (DQN)
+
+### Google Colab: [DoubleDQN](https://colab.research.google.com/drive/1m9nCdIJJsmhin7WJrtvNgW9psibF62bl?usp=sharing)
 
