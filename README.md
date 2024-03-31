@@ -70,3 +70,9 @@ options:
 
 ### Google Colab: [DoubleDQN](https://colab.research.google.com/drive/1m9nCdIJJsmhin7WJrtvNgW9psibF62bl?usp=sharing)
 
+
+
+## Session 9: Actor-Critic (AC) and Proximal Policy Optimisation (PPO)
+
+### Google Colab: [AC+PPO](https://colab.research.google.com/drive/1qSFQKJ-ne6kLbp3NjlelkSNAxE1w0m3X?usp=sharing)
+
